@@ -5,4 +5,4 @@ The goose alarm is a sentry alarm and deterrent system, specifcally but not limi
 The project is in its infancy as of now. Conducting small-scale research alongside initial prototypes to test project viability. Project will be updated semi-regularly as prototype approaches first rounds of testing.
 
 ## License
-/Please contact me at aidan.fadool@gmail.com for interest in the project, or for additional questions regarding it.../
+*Please contact me at aidan.fadool@gmail.com for interest in the project, or for additional questions regarding it...*
