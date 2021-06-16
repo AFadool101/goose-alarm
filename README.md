@@ -16,4 +16,5 @@ Make sure to download the required libraries in the arduino IDE before running.
 The project is in its infancy as of now. Conducting small-scale research alongside initial prototypes to test project viability. Project will be updated semi-regularly as prototype approaches first rounds of testing.
 
 ## License
+<<<<<<< HEAD
 /Please contact me at aidan.fadool@gmail.com for interest in the project, or for additional questions regarding it.../
